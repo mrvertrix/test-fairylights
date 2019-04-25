@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ColourPatternTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-24T22:08:37" hostname="IMSIM-0021" time="0.741">
+  <properties/>
+  <testcase name="run" classname="ColourPatternTest" time="0.741"/>
+  <system-out><![CDATA[--- Colour ---
+Light 0 RED off
+Light 0 RED on
+Light 0 RED off
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

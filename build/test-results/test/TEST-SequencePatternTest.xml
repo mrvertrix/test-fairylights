@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SequencePatternTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-24T22:08:39" hostname="IMSIM-0021" time="0.741">
+  <properties/>
+  <testcase name="run" classname="SequencePatternTest" time="0.741"/>
+  <system-out><![CDATA[--- Sequential ---
+Light 0 RED off
+Light 0 RED off
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

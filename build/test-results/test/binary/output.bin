@@ -1,0 +1,7 @@
+--- Colour ---
+Light 0 RED off
+Light 0 RED on
+Light 0 RED off
+	--- Sequential ---
+	Light 0 RED off
+	Light 0 RED off
