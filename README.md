@@ -1,2 +1,7 @@
 # test-fairylights
-sequential fairy light test code
+to use:
+
+windows : gradlew run
+linux : ./gradlew run
+
+type the chosen sequence at the prompt.
